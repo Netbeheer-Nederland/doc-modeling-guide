@@ -1,3 +1,4 @@
 doc-modeling-guide
 
-You're writing goes here.
+Inleiding
+Een begeleidend document behorende bij de NBNL Exchange Standard
