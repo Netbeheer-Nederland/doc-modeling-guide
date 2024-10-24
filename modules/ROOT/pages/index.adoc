@@ -1,4 +1,4 @@
-Inleiding
+= Inleiding
 
 
 Een begeleidend document behorende bij de NBNL Exchange Standard
